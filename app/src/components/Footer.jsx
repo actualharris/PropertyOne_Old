@@ -3,7 +3,7 @@ const Footer = () => {
 
     return (
         <footer>
-            <p>&copy; {year} Property1Realty. All rights reserved.</p>
+            <p>&copy; {year} PropertyOneRealty. All rights reserved.</p>
         </footer>
     );
 }

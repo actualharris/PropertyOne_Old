@@ -7,7 +7,7 @@ const Home = () => {
         <div className="container">
 
             <div className="home" id="home">
-                <h2>Property1Realty Welcomes You</h2>
+                <h2>PropertyOne Welcomes You</h2>
                 <p>Find your dream property with us.</p>
             </div>
 
